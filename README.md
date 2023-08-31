@@ -1,2 +1,2 @@
 # Projects
-BackeEd and FrontEnd Projects
+BackEnd and FrontEnd Projects
